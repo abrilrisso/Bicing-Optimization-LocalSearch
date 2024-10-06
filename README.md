@@ -1,5 +1,3 @@
-# Bicing-Optimization-LocalSearch
-
 # Local Search for Bicing Optimization
 
 ## Project Overview
